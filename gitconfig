@@ -54,7 +54,7 @@
   defaultBranch = master
 [user]
 	email = k20042802@kcl.ac.uk
-	name = Matthieu Tohme
+	name = Matthieu Tohnme
 [filter "lfs"]
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
